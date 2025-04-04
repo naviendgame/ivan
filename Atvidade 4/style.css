@@ -1,0 +1,48 @@
+h1 {
+    background-color: rgb(181, 160, 201);
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+nav ul {
+    text-align: center;
+
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    padding: 10px;
+}
+
+figure {
+    text-align: center;
+
+}  
+
+p{
+    text-align: center;
+  
+}
+
+div{
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px 5px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+th {
+    background-color: #f4f4f4;
+}
