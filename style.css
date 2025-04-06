@@ -1,0 +1,99 @@
+h1 {
+    background-color: #eceaea;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+nav ul {
+    text-align: center;
+
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    padding: 10px;
+}
+
+figure {
+    text-align: center;
+
+}  
+
+p{
+    text-align: center;
+  
+}
+
+.redes{
+    text-align: center;
+}
+.opções{
+    text-align: center;
+}
+
+.tabela {
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+}
+.tabela th, td, tr {
+    padding: 15px 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+.tabela th {
+    background-color: #f4f4f4;
+}
+
+footer {
+    background-color: #eceaea;
+}
+
+.direitos{
+    display: inline;
+    padding: 100px;
+}
+.tabela2 {
+    display: flex;
+    justify-content: center;
+    
+}
+.tabela2 th, td {
+    padding: 20px 40px;
+    border: none;
+    text-align: left;
+   
+}
+.icone {
+    width: 20px;       /* tamanho do ícone */
+    height: 20px;
+    vertical-align: middle; /* alinha com o texto */
+    margin-right: 8px; /* espaço entre o ícone e o texto */
+  }
+
+.maps{
+    text-align: center;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  input, textarea, button {
+    width: 100%;
+    padding: 2px;
+    margin-top: 4px;
+    
+  }
+  
+  button {
+    margin-top: 10px;
+    cursor: pointer;
+  }
